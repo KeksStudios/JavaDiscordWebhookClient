@@ -7,6 +7,7 @@ Webhook Client for discord
     - [Send messages](#send-messages)
        - [Send textmessages](#send-textmessages)
        - [Send embeds](#send-embeds)
+2. [Download](https://github.com/MauricePascal/JavaDIscordWebhookClient/raw/master/out/artifacts/JavaDiscordWebhookClient/JavaDiscordWebhookClient.jar)
 
 ## Getting started
 ### Create Client
