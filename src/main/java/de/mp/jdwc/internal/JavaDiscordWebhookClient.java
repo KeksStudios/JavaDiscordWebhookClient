@@ -4,7 +4,6 @@ package de.mp.jdwc.internal;
  */
 
 import de.mp.jdwc.internal.entities.EmbedObject;
-import de.mp.jdwc.internal.exceptions.UnknownWebhookException;
 import de.mp.jdwc.internal.impl.JavaDiscordWebhookClientImpl;
 
 import java.io.IOException;

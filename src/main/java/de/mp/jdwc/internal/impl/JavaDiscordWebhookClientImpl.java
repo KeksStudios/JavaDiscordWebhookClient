@@ -5,15 +5,12 @@ package de.mp.jdwc.internal.impl;
 
 import de.mp.jdwc.internal.JavaDiscordWebhookClient;
 import de.mp.jdwc.internal.entities.EmbedObject;
-import de.mp.jdwc.internal.exceptions.UnknownWebhookException;
 
 import javax.net.ssl.HttpsURLConnection;
 import java.awt.*;
 import java.io.IOException;
 import java.io.OutputStream;
-import java.net.HttpURLConnection;
 import java.net.URL;
-import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.List;
 
