@@ -31,11 +31,11 @@ webhookClient.execute(); //run the client and send the message(s)
 #### Send Embeds
 ```java
 EmbedObject embed = new EmbedObject() //Create embed object
-   embed.setTitle("Hello World") //Set the title of the embed
-   embed.setAuthor("MauricePascal#3009", "https://github.com/MauricePascal", null) //Set the author of the embed
-   embed.setColor(Color.CYAN) //Set the color of the embed
-   embed.setDescription("Here is a nice description") //set the description of the embed
-   embed.setFooter("Yea idk", null); //Set the footer of the embed
+    embed.setTitle("Hello World"); //Set the title of the embed
+    embed.setAuthor("MauricePascal#3009", "https://github.com/MauricePascal", null); //Set the author of the embed
+    embed.setColor(Color.CYAN); //Set the color of the embed
+    embed.setDescription("Here is a nice description"); //set the description of the embed
+    embed.setFooter("Yea idk", null); //Set the footer of the embed
         
 webhookClient.addEmbed(embed); //Add the embed(s) to the content
 webhookClient.execute(); //run the client and send the message(s)
