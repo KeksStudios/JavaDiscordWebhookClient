@@ -14,7 +14,6 @@ public class EmbedObject {
     private String description;
     private String url;
     private Color color;
-
     private Footer footer;
     private Thumbnail thumbnail;
     private Image image;
