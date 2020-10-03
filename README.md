@@ -32,7 +32,7 @@ webhookClient.execute(); //run the client and send the message(s)
 ```
 #### Send Embeds
 ```java
-EmbedObject embed = new EmbedObject() //Create embed object
+EmbedObject embed = new EmbedObject(); //Create embed object
     embed.setTitle("Hello World"); //Set the title of the embed
     embed.setAuthor("MauricePascal#3009", "https://github.com/MauricePascal", null); //Set the author of the embed
     embed.setColor(Color.CYAN); //Set the color of the embed
